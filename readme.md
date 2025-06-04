@@ -60,7 +60,7 @@ Após rodar o projeto, acesse a documentação no navegador:
 ## 🧪 Testes no Insomnia
 
 - O arquivo de testes está incluído na raiz do projeto com o nome:  
-  `Insomnia_2025-06-03.yaml`
+  `Insomnia_2025-06-03.har`
 
 > ✅ Para testar, basta importar este arquivo no **Insomnia** e executar todos os endpoints diretamente.
 
@@ -68,7 +68,7 @@ Após rodar o projeto, acesse a documentação no navegador:
 
 1. Abra o Insomnia.
 2. Clique em **“Arquivo” → “Importar” → “Arquivo”**.
-3. Selecione o arquivo `Insomnia_2025-06-03.yaml`.
+3. Selecione o arquivo `Insomnia_2025-06-04.har`.
 4. Pronto! Todos os endpoints estarão prontos para testar.
 
 ---
@@ -76,7 +76,7 @@ Após rodar o projeto, acesse a documentação no navegador:
 ## 🗄️ Banco de Dados (PostgreSQL)
 
 - Dump do banco de dados incluído na raiz do projeto:  
-  `dump-aluno_online_casa-202506031205.sql`
+  `dump-aluno_online_casa-202506041647.sql`
 
 > ✅ Pode ser restaurado no PostgreSQL para ter acesso às tabelas e dados.
 
@@ -115,3 +115,9 @@ Insomnia - Deletar aluno
 
 Banco de dados apos o delete no Insomnia
 ![apos o delete como ficou o dbeaver](src/main/java/README/bdapos.PNG)
+
+Banco de Dados com Swaguer Matricula Trancado 
+![swaguer](SWAGUER%20MATRICULA%20TRANCAR.PNG)
+
+Banco de Dados Completo 
+![bdcompleto](bd%20completo.PNG)
